@@ -1,1 +1,1 @@
-master_log
+master_bug
